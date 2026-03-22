@@ -10,7 +10,7 @@ Hardware design portfolio featuring Altium Designer and KiCad projects with sche
 
 **Tool:** Altium Designer  
 **Category:** Power Electronics  
-**Status:** ✅ Complete — Gerbers generated
+**Status:** ✅ Complete - Gerbers generated
 
 #### Overview
 
