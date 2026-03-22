@@ -22,7 +22,7 @@ A compact low-dropout (LDO) linear voltage regulator that converts a 5V input to
 
 #### 3D Model
 
-[View 3D Model](LDO_Converter/3d-model/LDO_Converter_PCB.stl)
+[View 3D Model](LDO_Converter/3D/LDO_Converter_PCB.stl)
 
 
 #### Key Components
