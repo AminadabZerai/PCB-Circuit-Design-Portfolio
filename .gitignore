@@ -1,0 +1,84 @@
+# ===========================
+# Altium Designer
+# ===========================
+
+# History and backup folders
+History/
+__Previews/
+Project Logs/
+Project Outputs/
+
+# Backup files
+*.PrjPcbStructure
+*.PcbDoc.htm
+*.SchDoc.htm
+*.Pcb.bak
+*.Sch.bak
+*.PrjPcb.bak
+*.PrjPcbStructure.bak
+
+# Cache and temp files
+*.TMP
+*.tmp
+*.log
+*.LOG
+*.DRR
+*.drc
+*.REP
+*.rep
+*.apr
+*.APR
+*.Net
+*.net
+
+# Local settings
+*.PcbDoc.lck
+*.SchDoc.lck
+*.PrjPcb.lck
+
+# Output job files (if regenerated)
+# Uncomment if you don't want to track these:
+# *.OutJob
+
+# ===========================
+# KiCad
+# ===========================
+
+# Backup files
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak
+*.bak
+
+# Autosave files
+_autosave-*
+*.000
+
+# Netlist and intermediate files
+*.dsn
+*.ses
+
+# Generated files
+*.xml
+fp-info-cache
+*.kicad_prl
+
+# Lock files
+*.lck
+
+# ===========================
+# General
+# ===========================
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
