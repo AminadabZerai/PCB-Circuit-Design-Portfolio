@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations
+C:\Users\Amine\Documents\PCB-Circuit-Design-Portfolio-main\Motion_Detector_Light_Switch\Motion_Detector_Light\Project Outputs for Free Documents\Pick Place\Pick Place for Motion_Detector_Light.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27/03/26
+Time:       23:57
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment             Layer    Footprint                  Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                           
+U2         CD40174BPW          TopLayer PW0016A_M                  1011.811      515.748       0        "CMOS Hex D-Type Flip-Flop, PW0016A, TUBE"                                                                                                            
+U1         OPA2343UA           TopLayer D0008A_N                   625.984       464.567       0        "Single-Supply, Rail-to-Rail Operational Amplifier MicroAmplifier(TM) Series, 2.7 to 5.5 V, -40 to 85 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)" 
+R6         220                 TopLayer RESC2013X60X30NL20T20      1011.811      921.260       270      ""                                                                                                                                                    
+R5         220                 TopLayer RESC2013X60X30NL20T20      1279.528      964.567       90       ""                                                                                                                                                    
+R4         220                 TopLayer RESC2013X60X30NL20T20      885.827       925.197       270      ""                                                                                                                                                    
+R3         10K                 TopLayer FP-RP73P-2A-IPC_B          397.638       381.890       270      "RP73P 0805 10KO 0.25W 25ppm/°C 0.10% 150V"                                                                                                           
+R2         10K                 TopLayer FP-RP73P-2A-IPC_B          472.441       137.795       90       "RP73P 0805 10KO 0.25W 25ppm/°C 0.10% 150V"                                                                                                           
+R1         10K                 TopLayer FP-TS53YL-MFG              196.850       944.882       180      "TRIMMER 10K OHM 0.25W GW TOP ADJ"                                                                                                                    
+Q1         2N7002-7-F          TopLayer FP-SOT23-IPC_A             1043.307      728.346       0        "MOSFET N-CH 60V 115MA SOT23-3"                                                                                                                       
+PT1        NPN                 TopLayer PhotoTr_PT334-6C           196.850       531.496       180      "Phototransistor Chip Silicon 940nm 2-Pin T-1 Bag / 5mm Phototransistor, T-1 3/4"                                                                     
+P1         MTLW-103-07-G-S-230 TopLayer FP-MTLW-103-07-G-S-230-MFG 984.252       295.276       180      "CONN HEADER VERT 3POS 2.54MM"                                                                                                                        
+LED2       Green               TopLayer KING-WP7113SGD_V           1496.063      925.197       90       "LED Green, 62.5 mW, 25 mA, -40 to 85 degC, 2-Pin THD, RoHS, Bulk"                                                                                    
+LED1       RED                 TopLayer FP-HLMP-4700-MFG           688.976       925.197       270      "LED RED DIFFUSED T-1 3/4 T/H"                                                                                                                        
+K1         JW1FSN-B-DC5V       TopLayer FP-JW1FSN-B-DC5V-MFG       1895.669      295.276       0        "RELAY GEN PURPOSE SPDT 10A 5V"                                                                                                                       
+J2         1714980000          TopLayer LM_3_5_135_02              2736.220      289.370       0        "OMNIMATE Signal - series LM"                                                                                                                         
+J1         PJ-002A             TopLayer CUI-PJ-002A_V              2480.315      938.976       0        "Through Hole Right Angle DC Power Jack, 2.5 A, 2 mm Center Pin, 3 Position, -25 to 85 degC, RoHS, Bulk"                                              
+DS1        IR                  TopLayer FP-SFH_4554-MFG            216.535       177.165       90       "EMITTER IR 850NM"                                                                                                                                    
+D1         1N4007E-E3/54       TopLayer FP-1N4007E-E3-54-MFG       1240.158      275.591       90       "DIODE GEN PURP 1KV 1A DO204AL"                                                                                                                       
+C5         0.1uF               TopLayer CAPC2013X145X50ML20T20     1240.158      708.661       270      ""                                                                                                                                                    
+C4         100uF               TopLayer FP-TR3B-MFG                452.756       925.197       90       "TR3B107M010C1400 Cap Tant Solid 100uF 10V B CASE 20% (3.5 X 2.8 X 1.9mm) Inward L SMD 3528-21 1.4 Ohm 125C T/R"                                      
+C3         0.1uF               TopLayer CAPC2013X145X50ML20T20     728.346       708.661       0        ""                                                                                                                                                    
+C2         470uF               TopLayer FP-TR3E-MFG                2145.669      866.142       90       "TR3E477K010C0100 Cap Tant Solid 470uF 10V E CASE 10% (7.3 X 4.3 X 4mm) Inward L SMD 7343-43 0.1 Ohm 125C T/R"                                        
+C1         1uF                 TopLayer CAPC2013X100X50ML20T25     1889.764      925.197       90       ""                                                                                                                                                    

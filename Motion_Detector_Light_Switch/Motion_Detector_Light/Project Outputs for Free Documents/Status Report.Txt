@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Motion_Detector_Light.PrjPcb]
+   Generated File[Bill of Materials-Motion_Detector_Light.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:57:11 PM On 3/27/2026

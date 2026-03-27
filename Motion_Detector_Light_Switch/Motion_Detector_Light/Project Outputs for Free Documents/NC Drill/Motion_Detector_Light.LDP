@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Amine\Documents\PCB-Circuit-Design-Portfolio-main\Motion_Detector_Light_Switch\Motion_Detector_Light\Motion_Detector_Light.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=motion_detector_light-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=motion_detector_light-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
